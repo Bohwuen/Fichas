@@ -1,0 +1,90 @@
+Civil:         ⚫⚫⚫⚫⚫
+Novato:        ⚫⚫⚫⚫⚫
+Combatiente:   ⚫⚪⚪⚪⚪
+Experimentado: ⚪⚪⚪⚪⚪
+Veterano:      ⚪⚪⚪⚪⚪
+
+0/20 puntos gratuitos por creación de personaje
+por cada nivel aumentado el personaje obtiene 
+7p. gratuitos.
+70p gratuitos gastados.
+
+Atributos          5 puntos, 1 punto= 4p. gratuitos
+
+Destreza 		⚫⚫⚫⚪⚪ ****
+Percepción 		⚫⚫⚫⚪⚪ ****
+Voluntad 		⚫⚫⚪⚪⚪
+Vigor 			⚫⚪⚪⚪⚪
+Inteligencia 		⚫⚫⚫⚪⚪ (+1 mago) 
+Salud 			⚫⚫⚪⚪⚪ ****
+Energía 		⚫⚫⚫⚪⚪ ****
+
+Defensas           3 puntos , 1 punto= 3p.* gratuitos
+
+Parada 			⚫⚪⚪⚪⚪
+Esquivar 		⚫⚫⚪⚪⚪ ***
+Bloqueo 		⚪⚪⚪⚪⚪
+Metamagia 		⚫⚫⚫⚪⚪ (-3pg) ***
+
+Habilidades mágicas   1 punto, 1 punto= 3p.* gratuitos
+
+Taumaturgia             ⚫⚫⚫⚪⚪⚪  (+1 mago)(-3pg)
+
+Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
+
+Espadas de una mano    ⚫⚫⚪⚪⚪⚪ (+1 humano)
+Bastones               ⚫⚫⚫⚫⚪⚪  (+1 mago) (-3pg)
+Varitas                ⚫⚪⚪⚪⚪
+Dagas                  ⚫⚪⚪⚪⚪
+
+HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
+
+Habilidades Físicas 
+
+Atletismo 		⚫⚫⚪⚪⚪ **
+Robo 			⚪⚪⚪⚪⚪
+Sigilo 			⚪⚪⚪⚪⚪
+Forzar cerraduras 	⚪⚪⚪⚪⚪
+Supervivencia 		⚫⚪⚪⚪⚪
+Trepar /escalar 	⚫⚪⚪⚪⚪
+Buscar 			⚫⚫⚫⚪⚪ ** ** 
+
+Habilidades mentales
+
+Alerta 			⚫⚫⚫⚪⚪ ** **	
+Aprendizaje 		⚫⚫⚫⚪⚪⚪ (+1 humano) ** 
+Interpretación 		⚫⚪⚪⚪⚪
+
+Habilidades sociales 	
+
+Subterfugio    		⚫⚪⚪⚪⚪
+Trato con animales 	⚫⚫⚪⚪⚪ **
+Intimidación  		⚫⚫⚪⚪⚪ **
+Carisma 		⚫⚫⚫⚪⚪⚪ (+1 humano) (+1 mago)(-3pg.)
+
+PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
+
+Artesanías
+
+Sastrería  		⚫⚫⚫⚫⚫⚪ (+1 Humano) ** ** **
+Encantamiento  		⚫⚫⚫⚫⚫⚪ (+1 Humano) ** ** **
+
+Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
+
+Jinete 			⚫⚫⚫⚪⚪ (-2pg) **
+Pesca 			⚫⚫⚪⚪⚪ (-2pg)
+Arqueología 		⚪⚪⚪⚪⚪ 
+Médico 			⚫⚪⚪⚪⚪
+Cocina 			⚫⚫⚫⚫⚫ (-2pg) ** ** **
+con. magia              ⚫⚫⚫⚫⚪⚪  (+1 mago) (-2pg) ** **
+
+MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
+
+Magia 
+
+Arcanismo                ⚫⚫⚫⚪⚪⚪  (+1 mago) **
+Piromancia               ⚫⚫⚫⚫⚪⚪  (+1 mago) ** **
+Criomancia               ⚫⚫⚪⚪⚪⚪  (+1 mago) **
+ 
+
+* +1 de coste si es la primera vez.
