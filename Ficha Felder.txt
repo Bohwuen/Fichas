@@ -1,0 +1,91 @@
+Civil:         ⚫⚫⚫⚫⚫
+Novato:        ⚪⚪⚪⚪⚪
+Combatiente:   ⚪⚪⚪⚪⚪
+Experimentado: ⚪⚪⚪⚪⚪
+Veterano:      ⚪⚪⚪⚪⚪
+
+20 puntos gratuitos por creación de personaje
+por cada nivel aumentado el personaje obtiene 
+7p. gratuitos.
+28pg por niveles
+0 puntos gratuitos restantes
+
+Atributos          5 puntos, 1 punto= 4p. gratuitos
+
+Destreza 		⚫⚪⚪⚪⚪
+Percepción 		⚫⚫⚫⚪⚪⚪ (+1 Huargen),1p.
+Voluntad 		⚫⚪⚪⚪⚪
+Vigor 			⚫⚫⚫⚪⚪⚪⚪  (+2 Huargen)
+Inteligencia 		⚫⚫⚪⚪⚪ 1p.
+Salud 			⚫⚫⚫⚫⚪   3p.
+Energía 		⚫⚫⚫⚪⚪ 8pg.
+
+Defensas           3 puntos , 1 punto= 3p.* gratuitos
+
+Parada 			⚫⚪⚪⚪⚪ 1p.
+Esquivar 		⚫⚫⚫⚪⚪ 1p. 6pg.
+Bloqueo 		⚪⚪⚪⚪⚪
+Metamagia 		⚫⚫⚫⚪⚪ 1p.6pg.
+
+Habilidades mágicas   1 punto, 1 punto= 3p.* gratuitos
+
+Naturaleza                ⚫⚫⚪⚪⚪ (+1 Druida)1p
+
+
+Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
+
+Bastones               ⚪⚪⚪⚪⚪
+Armas de puño          ⚫⚫⚫⚪⚪⚪ (+1 Druida)2p.
+Armas de asta          ⚫⚫⚫⚫⚪ 3p.3pg.
+Sin Armas              ⚫⚪⚪⚪⚪⚪ (+1 Druida)
+
+HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
+
+Habilidades Físicas 
+
+Atletismo 		⚫⚫⚫⚫⚫⚪⚪ (+2 huargen)3p.
+Robo 			⚪⚪⚪⚪⚪
+Sigilo 			⚫⚪⚪⚪⚪          2pg.
+Forzar cerraduras 	⚪⚪⚪⚪⚪
+Supervivencia 		⚪⚪⚪⚪⚪
+Trepar /escalar 	⚫⚫⚪⚪⚪ 2p.
+Buscar 			⚪⚪⚪⚪⚪
+
+Habilidades mentales
+
+Alerta 			⚪⚪⚪⚪⚪	
+Aprendizaje 		⚫⚫⚫⚪⚪ 3p.
+Interpretación 		⚪⚪⚪⚪⚪
+
+Habilidades sociales 	
+
+Subterfugio    		⚫⚫⚪⚪⚪ 4pg.
+Trato con animales 	⚫⚫⚫⚪⚪⚪ (+1 Druida) 2p.
+Intimidación  		⚫⚪⚪⚪⚪ 3pg.
+Carisma 		⚫⚪⚪⚪⚪ 3pg.
+
+PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
+
+Artesanías
+
+Desuello  		⚫⚪⚪⚪⚪⚪ (+1 Huargen)
+Herborista  		⚫⚫⚫⚫⚪⚪ (+1 Druida) 2p. 2pg.
+
+Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
+
+Jinete 			⚪⚪⚪⚪⚪
+Pesca 			⚪⚪⚪⚪⚪
+Arqueología 		⚪⚪⚪⚪⚪
+Médico 			⚫⚫⚫⚫⚪ 3p.2pg.
+Cocina 			⚫⚪⚪⚪⚪ 1p.
+ 
+MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
+
+Magia 
+
+Magia druidica: Feral       ⚫⚪⚪⚪⚪⚪ (+1 Druida)
+Magia druidica: Equilibrio  ⚫⚫⚫⚫⚪⚪ (+1 Druida) 2p. 3pg.
+Magia druidica: Vida        ⚫⚫⚫⚫⚪⚪ (+1 Druida) 1p. 3pg.3pg.
+
+
+* +1 de coste si es la primera vez.
