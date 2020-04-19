@@ -55,19 +55,7 @@ Mazas de una mano     	⚫⚫⚪⚪⚪⚪⚪ 1hu 1dk
 Mazas de dos manos      ⚫⚫⚫⚫⚪⚪⚪ 2p 1hu 2dk
 Hachas de una manos     ⚫⚪⚪⚪⚪⚪ 1dk
 Hachas de dos manos     ⚫⚪⚪⚪⚪⚪ 1dk
-Arcos                	⚪⚪⚪⚪⚪  
-Armas de fuego        	⚪⚪⚪⚪⚪
-Armas arrojadizas      	⚪⚪⚪⚪⚪
-Ballestas              	⚪⚪⚪⚪⚪
-Bastones               	⚪⚪⚪⚪⚪
-Varitas                	⚪⚪⚪⚪⚪
-Dagas                  	⚪⚪⚪⚪⚪
-Armas de puño          	⚪⚪⚪⚪⚪
 Armas de asta          	⚫⚪⚪⚪⚪⚪ 1dk
-Armas de puño          	⚪⚪⚪⚪⚪
-Armas de puño          	⚪⚪⚪⚪⚪
-Armas de puño          	⚪⚪⚪⚪⚪ 
-
 
 
 HABILIDADES:      	10 puntos, 1 punto= 2p.* gratuitos
@@ -102,31 +90,8 @@ Carisma          	⚫⚪⚪⚪⚪⚪ 1hu
 PROFESIONES        	2 puntos, 1 punto= 2p.* gratuitos
 
 Artesanías
-
-Alquimia          	⚪⚪⚪⚪⚪
-Sastrería          	⚪⚪⚪⚪⚪
-Desuello          	⚪⚪⚪⚪⚪
-Carpintería          	⚪⚪⚪⚪⚪
-Herborista          	⚪⚪⚪⚪⚪
-Encantamiento          	⚪⚪⚪⚪⚪
-Herrería          	⚪⚪⚪⚪⚪
 Inscripción          	⚫⚫⚪⚪⚪⚪ 1p 1hu
-Ingeniería          	⚪⚪⚪⚪⚪
-Joyería          	⚪⚪⚪⚪⚪
-Leñador          	⚪⚪⚪⚪⚪
 Minería          	⚫⚫⚪⚪⚪⚪ 1p 1hu
-Peletería          	⚪⚪⚪⚪⚪
-Granjero          	⚪⚪⚪⚪⚪
-
-
-Oficios
-
-Bardo          		⚪⚪⚪⚪⚪
-Marinero          	⚪⚪⚪⚪⚪
-Mercader          	⚪⚪⚪⚪⚪
-Cazarrecompensas        ⚪⚪⚪⚪⚪
-Criador de animales     ⚪⚪⚪⚪⚪
-
 
 Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
 
@@ -142,43 +107,12 @@ MAGIA Y ESTILOS        3 puntos, 1 punto= 2p.* gratuitos
 
 Magia 
 
-Arcanismo     		⚪⚪⚪⚪⚪
-Piromancia     		⚪⚪⚪⚪⚪
-Criomancia     		⚪⚪⚪⚪⚪
 Nigromancia     	⚫⚫⚫⚫⚪⚪ 1p 1dk ** **
 Magia rúnica     	⚫⚫⚫⚪⚪⚪ 1dk ** **
-Demonología     	⚪⚪⚪⚪⚪
-Piromancia vil     	⚪⚪⚪⚪⚪
 Magia sangrienta     	⚫⚫⚫⚫⚫⚪ 2p 1dk ** **
-Magia de la sombra     	⚪⚪⚪⚪⚪
-druidica: Feral   	⚪⚪⚪⚪⚪
-druidica: Equilibrio	⚪⚪⚪⚪⚪
-druidica: Vida   	⚪⚪⚪⚪⚪
-Dominio de la luz   	⚪⚪⚪⚪⚪
-Magia elemental: Agua   ⚪⚪⚪⚪⚪
-Magia elemental: Fuego  ⚪⚪⚪⚪⚪
-Magia elemental: Tierra ⚪⚪⚪⚪⚪
-Magia elemental: Aire   ⚪⚪⚪⚪⚪
-Chi   			⚪⚪⚪⚪⚪ 
-
 
 Estilos
 
-Maestro de armas   	⚪⚪⚪⚪⚪
-Furibundo   		⚪⚪⚪⚪⚪
-Protector   		⚪⚪⚪⚪⚪
-Puntería   		⚪⚪⚪⚪⚪
-Supervivencia   	⚪⚪⚪⚪⚪
-Maestro de bestias   	⚪⚪⚪⚪⚪
-A.A.M.M. M. cervecer   	⚪⚪⚪⚪⚪
-A.A.M.M. Caminavientos	⚪⚪⚪⚪⚪
-Asesinato   		⚪⚪⚪⚪⚪
-Sutileza   		⚪⚪⚪⚪⚪
-Forajido   		⚪⚪⚪⚪⚪
-Protector sagrado   	⚪⚪⚪⚪⚪
-Represión   		⚪⚪⚪⚪⚪
-Devastación   		⚪⚪⚪⚪⚪
-Venganza   		⚪⚪⚪⚪⚪
 Caballero sangriento   	⚫⚫⚫⚫⚪⚪ 1dk ** ** **
 Caballero de escarcha   ⚫⚪⚪⚪⚪⚪ 1dk
 Caballero profano   	⚫⚫⚪⚪⚪⚪ 1dk **
