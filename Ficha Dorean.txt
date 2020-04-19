@@ -1,5 +1,4 @@
 Nombre: Dorean Bauer
-Combatiente: 10000
 Raza: Humano
 Clase: Caballero de la Muerte
 Título: - 
@@ -7,6 +6,7 @@ Nacimiento: -
 Residencia: -
 Facción: - 
 Alineación: -
+Nivel:
 
 Civil:			⚫⚫⚫⚫⚫
 Novato:			⚫⚫⚫⚫⚫
