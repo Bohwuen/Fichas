@@ -11,80 +11,80 @@ por cada nivel aumentado el personaje obtiene
 
 Atributos          5 puntos, 1 punto= 4p. gratuitos
 
-Destreza 		⚫⚫⚫⚪⚪ ****
-Percepción 		⚫⚫⚫⚪⚪ ****
-Voluntad 		⚫⚫⚪⚪⚪
+Destreza 		⚫⚫⚫⚪⚪ 1p. 4pg.
+Percepción 		⚫⚫⚫⚪⚪ 1p. 4pg.
+Voluntad 		⚫⚫⚪⚪⚪ 1p.
 Vigor 			⚫⚪⚪⚪⚪
-Inteligencia 		⚫⚫⚫⚪⚪ (+1 mago) 
-Salud 			⚫⚫⚪⚪⚪ ****
-Energía 		⚫⚫⚫⚪⚪ ****
+Inteligencia 		⚫⚫⚫⚪⚪⚪ (+1 mago) 1p. 
+Salud 			⚫⚫⚪⚪⚪ 4pg.
+Energía 		⚫⚫⚫⚪⚪ 1p. 4pg,
 
 Defensas           3 puntos , 1 punto= 3p.* gratuitos
 
-Parada 			⚫⚪⚪⚪⚪
-Esquivar 		⚫⚫⚪⚪⚪ ***
+Parada 			⚫⚪⚪⚪⚪ 1p.
+Esquivar 		⚫⚫⚪⚪⚪ 1p. 3pg.
 Bloqueo 		⚪⚪⚪⚪⚪
-Metamagia 		⚫⚫⚫⚪⚪ (-3pg) ***
+Metamagia 		⚫⚫⚫⚪⚪ 1p. (-3pg) 3pg
 
 Habilidades mágicas   1 punto, 1 punto= 3p.* gratuitos
 
-Taumaturgia             ⚫⚫⚫⚪⚪⚪  (+1 mago)(-3pg)
+Taumaturgia             ⚫⚫⚫⚪⚪⚪  (+1 mago) 1p.(-3pg)
 
 Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
 
-Espadas de una mano    ⚫⚫⚪⚪⚪⚪ (+1 humano)
-Bastones               ⚫⚫⚫⚫⚪⚪  (+1 mago) (-3pg)
-Varitas                ⚫⚪⚪⚪⚪
-Dagas                  ⚫⚪⚪⚪⚪
+Espadas de una mano    ⚫⚫⚪⚪⚪⚪ (+1 humano)1p.
+Bastones               ⚫⚫⚫⚫⚪⚪  (+1 mago) 2p. (-3pg)
+Varitas                ⚫⚪⚪⚪⚪ 1p.
+Dagas                  ⚫⚪⚪⚪⚪ 1p.
 
 HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
 
 Habilidades Físicas 
 
-Atletismo 		⚫⚫⚪⚪⚪ **
+Atletismo 		⚫⚫⚪⚪⚪ 1p. 2pg.
 Robo 			⚪⚪⚪⚪⚪
 Sigilo 			⚪⚪⚪⚪⚪
 Forzar cerraduras 	⚪⚪⚪⚪⚪
-Supervivencia 		⚫⚪⚪⚪⚪
-Trepar /escalar 	⚫⚪⚪⚪⚪
-Buscar 			⚫⚫⚫⚪⚪ ** ** 
+Supervivencia 		⚫⚪⚪⚪⚪ 1p.
+Trepar /escalar 	⚫⚪⚪⚪⚪ 1p.
+Buscar 			⚫⚫⚫⚪⚪ 1p. 4pg
 
 Habilidades mentales
 
-Alerta 			⚫⚫⚫⚪⚪ ** **	
-Aprendizaje 		⚫⚫⚫⚪⚪⚪ (+1 humano) ** 
+Alerta 			⚫⚫⚫⚪⚪ 1p. 4pg	
+Aprendizaje 		⚫⚫⚫⚪⚪⚪ (+1 humano) 1p. 2 pg. 
 Interpretación 		⚫⚪⚪⚪⚪
 
 Habilidades sociales 	
 
-Subterfugio    		⚫⚪⚪⚪⚪
-Trato con animales 	⚫⚫⚪⚪⚪ **
-Intimidación  		⚫⚫⚪⚪⚪ **
+Subterfugio    		⚫⚪⚪⚪⚪ 1p.
+Trato con animales 	⚫⚫⚪⚪⚪ 1p. 2pg.
+Intimidación  		⚫⚫⚪⚪⚪ 1p. 2pg.
 Carisma 		⚫⚫⚫⚪⚪⚪ (+1 humano) (+1 mago)(-3pg.)
 
 PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
 
 Artesanías
 
-Sastrería  		⚫⚫⚫⚫⚫⚪ (+1 Humano) ** ** **
-Encantamiento  		⚫⚫⚫⚫⚫⚪ (+1 Humano) ** ** **
+Sastrería  		⚫⚫⚫⚫⚫⚪ (+1 Humano) 1p. 6pg.
+Encantamiento  		⚫⚫⚫⚫⚫⚪ (+1 Humano) 1p. 6pg,
 
 Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
 
-Jinete 			⚫⚫⚫⚪⚪ (-2pg) **
-Pesca 			⚫⚫⚪⚪⚪ (-2pg)
+Jinete 			⚫⚫⚫⚪⚪ 1p.(-2pg) 2pg. 
+Pesca 			⚫⚫⚪⚪⚪ 1p. (-2pg)
 Arqueología 		⚪⚪⚪⚪⚪ 
-Médico 			⚫⚪⚪⚪⚪
-Cocina 			⚫⚫⚫⚫⚫ (-2pg) ** ** **
-con. magia              ⚫⚫⚫⚫⚪⚪  (+1 mago) (-2pg) ** **
+Médico 			⚫⚪⚪⚪⚪ 1p.
+Cocina 			⚫⚫⚫⚫⚫ 1p. (-2pg) 6pg.
+con. magia              ⚫⚫⚫⚫⚪⚪  (+1 mago) (-2pg) 4pg.
 
 MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
 
 Magia 
 
-Arcanismo                ⚫⚫⚫⚪⚪⚪  (+1 mago) **
-Piromancia               ⚫⚫⚫⚫⚪⚪  (+1 mago) ** **
-Criomancia               ⚫⚫⚪⚪⚪⚪  (+1 mago) **
+Arcanismo                ⚫⚫⚫⚪⚪⚪  (+1 mago) 1p. 2pg.
+Piromancia               ⚫⚫⚫⚫⚪⚪  (+1 mago) 1p. 4pg
+Criomancia               ⚫⚫⚪⚪⚪⚪  (+1 mago) 1p.
  
 
 * +1 de coste si es la primera vez.
