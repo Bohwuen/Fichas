@@ -1,0 +1,107 @@
+Civil:         ⚫⚫⚫⚫⚫
+Novato:        ⚫⚫⚫⚫⚫
+Combatiente:   ⚫⚪⚪⚪⚪
+Experimentado: ⚪⚪⚪⚪⚪
+Veterano:      ⚪⚪⚪⚪⚪
+
+20 puntos gratuitos por creación de personaje
+por cada nivel aumentado el personaje obtiene 
+7p. gratuitos.
+
+Racial( +1 Vel. int Herrería +2 maq, topo, -1 daño Físico, +1 mazas y hachas 1M +1 escudos,)
+Clase: Chamán
+
+Atributos          5 puntos, 1 punto= 4p. gratuitos
+
+Destreza 		⚫⚫⚫⚫⚪ 12pg.
+Percepción 		⚫⚫⚪⚪⚪ 1p.
+Voluntad 		⚫⚫⚫⚪⚪ 2p.
+Vigor 			⚫⚫⚫⚪⚪ 2p.
+Inteligencia 		⚫⚫⚫⚪⚪ 8pg.
+Salud 			⚫⚫⚪⚪⚪ 4pg.
+Energía 		⚫⚫⚫⚫⚪ 12pg.
+
+Defensas           3 puntos , 1 punto= 3p.* gratuitos
+
+Parada 			⚫⚫⚫⚫⚪ 2p. 6pg.
+Esquivar 		⚫⚫⚪⚪⚪ 1p. 3pg.
+Bloqueo 		⚪⚪⚪⚪⚪
+Metamagia 		⚫⚫⚫⚫⚪ 4pg*, 9pg.
+
+Habilidades mágicas   1 punto, 1 punto= 3p.* gratuitos
+
+Espiritualidad            ⚫⚫⚫⚫⚪⚪ (+1 Ch) 6pg.
+
+Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
+
+Espadas de una mano    ⚪⚪⚪⚪⚪
+Espadas de dos manos   ⚪⚪⚪⚪⚪
+Mazas de una mano      ⚫⚫⚫⚫⚪⚪ (+1 Ch),3p.
+Mazas de dos manos     ⚪⚪⚪⚪⚪
+Hachas de una mano     ⚫⚪⚪⚪⚪⚪ (+1 Ch)
+Hachas de dos manos    ⚪⚪⚪⚪⚪
+Arcos                  ⚪⚪⚪⚪⚪
+Armas de fuego         ⚪⚪⚪⚪⚪
+Armas arrojadizas      ⚪⚪⚪⚪⚪
+Ballestas              ⚪⚪⚪⚪⚪
+Bastones               ⚪⚪⚪⚪⚪
+Varitas                ⚪⚪⚪⚪⚪
+Dagas                  ⚪⚪⚪⚪⚪
+Armas de puño          ⚫⚫⚪⚪⚪⚪ (+1 Ch),1p.
+Armas de asta          ⚪⚪⚪⚪⚪
+Gujas de guerra        ⚪⚪⚪⚪⚪ 
+Escudo                 ⚫⚪⚪⚪⚪⚪ (+1 Ch)
+Sin Armas              ⚪⚪⚪⚪⚪ 
+
+HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
+
+Habilidades Físicas 
+
+Atletismo 		⚫⚫⚪⚪⚪ 2p.
+Robo 			⚪⚪⚪⚪⚪
+Sigilo 			⚪⚪⚪⚪⚪
+Forzar cerraduras 	⚪⚪⚪⚪⚪
+Supervivencia 		⚫⚫⚪⚪⚪ 3pg.* 2pg.
+Trepar /escalar 	⚫⚪⚪⚪⚪ 3pg.*
+Buscar 			⚪⚪⚪⚪⚪
+
+Habilidades mentales
+
+Alerta 			⚫⚫⚫⚫⚪ 2p. 4pg.	 
+Aprendizaje 		⚪⚪⚪⚪⚪
+Interpretación 		⚪⚪⚪⚪⚪
+
+Habilidades sociales 	
+
+Subterfugio    		⚫⚫⚪⚪⚪ 1p. 2pg.
+Trato con animales 	⚪⚪⚪⚪⚪
+Intimidación  		⚫⚫⚫⚪⚪ 3p.
+Carisma 		⚫⚫⚫⚫⚪ 2p. 4pg.
+
+PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
+
+Artesanías
+
+Desuello  		⚫⚫⚪⚪⚪ 2p.
+Herrería  		⚫⚫⚪⚪⚪⚪⚪ (+2Hn)
+
+Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
+
+Jinete 			⚫⚫⚫⚫⚪ 2p. 4pg.
+Pesca 			⚪⚪⚪⚪⚪
+Arqueología 		⚪⚪⚪⚪⚪
+Médico 			⚫⚪⚪⚪⚪ 1p.
+Cocina 			⚫⚪⚪⚪⚪ 1p.
+con. magia		⚪⚪⚪⚪⚪
+
+MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
+
+Magia 
+
+Magia elemental: Agua       ⚫⚪⚪⚪⚪⚪ (+1 Ch)
+Magia elemental: Fuego      ⚫⚫⚫⚪⚪⚪ (+1 Ch) 1p.3pg 
+Magia elemental: Tierra     ⚫⚫⚫⚪⚪⚪ (+1 Ch) 2p.
+Magia elemental: Aire       ⚫⚫⚫⚫⚪⚪ (+1 Ch) 9pg.
+
+
+* +1 de coste si es la primera vez.
