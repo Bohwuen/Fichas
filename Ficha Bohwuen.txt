@@ -16,7 +16,7 @@ Percepción 		⚫⚫⚫⚪⚪ 1p. 4pg.
 Voluntad 		⚫⚫⚪⚪⚪ 1p.
 Vigor 			⚫⚪⚪⚪⚪
 Inteligencia 		⚫⚫⚫⚪⚪⚪ (+1 mago) 1p. 
-Aguante 	  ⚫⚫⚪⚪⚪ 4pg.
+Aguante 	    ⚫⚫⚪⚪⚪ 4pg.
 Energía 		⚫⚫⚫⚪⚪ 1p. 4pg,
 
 Defensas           3 puntos , 1 punto= 3p.* gratuitos
