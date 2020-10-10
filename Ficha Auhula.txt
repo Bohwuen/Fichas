@@ -1,0 +1,89 @@
+Civil:         ⚫⚪⚪⚪⚪
+Novato:        ⚪⚪⚪⚪⚪
+Combatiente:   ⚪⚪⚪⚪⚪
+Experimentado: ⚪⚪⚪⚪⚪
+Veterano:      ⚪⚪⚪⚪⚪
+
+20 puntos gratuitos por creación de personaje
+por cada nivel aumentado el personaje obtiene 
+7p. gratuitos.
+
+Atributos          5 puntos, 1 punto= 4p. gratuitos
+
+Destreza 		⚫⚫⚪⚪⚪ (-4pg.)
+Percepción 		⚫⚫⚪⚪⚪ (-1p.)
+Voluntad 		⚫⚫⚫⚪⚪⚪ (+1 Draenei,-1p.)
+Vigor 			⚫⚫⚪⚪⚪⚪ (+1 Draenei)
+Inteligencia 		⚫⚫⚫⚪⚪⚪ (+1 Sacerdote,-1p.)
+Aguante			⚫⚫⚪⚪⚪ (-1p.)
+Energía 		⚫⚫⚫⚪⚪ (-1p., -4pg.)
+
+Defensas           3 puntos , 1 punto= 3p.* gratuitos
+
+Parada 			⚪⚪⚪⚪⚪
+Esquivar 		⚫⚫⚪⚪⚪ (-2p.)
+Bloqueo 		⚪⚪⚪⚪⚪
+Metamagia 		⚫⚫⚫⚪⚪ (-1p.,-6pg.)
+
+Habilidades mágicas   1 punto, 1 punto= 3p.* gratuitos
+
+Fe                        ⚫⚫⚪⚪⚪⚪ (+1 Sacerdote,-1p.)
+
+Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
+
+Mazas de una mano      ⚫⚫⚫⚪⚪⚪ (+1 Sacerdote,-2p.)
+Bastones               ⚫⚫⚪⚪⚪⚪ (+1 Sacerdote,-1p.)
+Varitas                ⚫⚫⚪⚪⚪ (-1p.,-3pg.)
+Dagas                  ⚫⚫⚪⚪⚪ (-1p.-3pg.)
+Sin Armas              ⚪⚪⚪⚪⚪ 
+
+HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
+
+Habilidades Físicas 
+
+Atletismo 		⚫⚪⚪⚪⚪ (-1p.)
+Robo 			⚪⚪⚪⚪⚪
+Sigilo 			⚪⚪⚪⚪⚪
+Forzar cerraduras 	⚪⚪⚪⚪⚪
+Supervivencia 		⚫⚪⚪⚪⚪ (-1p.)
+Trepar /escalar 	⚪⚪⚪⚪⚪
+Buscar 			⚫⚫⚪⚪⚪ (-1p.)
+
+Habilidades mentales
+
+Alerta 			⚫⚪⚪⚪⚪ (-1p.)	
+Aprendizaje 		⚫⚫⚪⚪⚪ (-2p.)
+Interpretación 		⚪⚪⚪⚪⚪
+
+Habilidades sociales 	
+
+Subterfugio    		⚪⚪⚪⚪⚪
+Trato con animales 	⚫⚪⚪⚪⚪ (-1p.)
+Intimidación  		⚪⚪⚪⚪⚪
+Carisma 		⚫⚫⚫⚪⚪⚪ (+1 Sacerdote,-2p.)
+
+PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
+
+Artesanías
+
+Joyería  		⚫⚫⚪⚪⚪⚪ (+1 Draenei,-1p.)
+Minería  		⚫⚪⚪⚪⚪ (-1p.)
+
+Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
+
+Jinete 			⚫⚪⚪⚪⚪ (-1p.)
+Pesca 			⚪⚪⚪⚪⚪ 
+Arqueología 		⚫⚪⚪⚪⚪ (-1p.)
+Médico 			⚫⚪⚪⚪⚪ (-1p.)
+Cocina 			⚪⚪⚪⚪⚪
+con. magia		⚫⚪⚪⚪⚪ (-1p.)
+
+MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
+
+Magia 
+
+Magia de la sombra          ⚫⚫⚪⚪⚪⚪ (+1 Sacerdote,-1p.)
+Dominio de la luz           ⚫⚫⚫⚪⚪⚪ (+1 Sacerdote,-2p.)
+
+
+* +1 de coste si es la primera vez.
