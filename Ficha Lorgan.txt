@@ -1,0 +1,162 @@
+Civil:         ⚫⚪⚪⚪⚪
+Novato:        ⚪⚪⚪⚪⚪
+Combatiente:   ⚪⚪⚪⚪⚪
+Experimentado: ⚪⚪⚪⚪⚪
+Veterano:      ⚪⚪⚪⚪⚪
+
+20 puntos gratuitos por creación de personaje
+por cada nivel aumentado el personaje obtiene 
+7p. gratuitos.
+
+Atributos          5 puntos, 1 punto= 4p. gratuitos  
+
+Destreza 		⚫⚫⚫⚪⚪⚪ 1p. +1 Guerrero
+Percepción 		⚫⚫⚪⚪⚪⚪ +1 Huargen
+Voluntad 		⚫⚫⚪⚪⚪ 1p.
+Vigor 			⚫⚫⚫⚫⚫⚪⚪⚪⚪ +2 Huargen +1 Guerrero +1 Protector
+Inteligencia 		⚫⚪⚪⚪⚪
+Aguante 		⚫⚫⚫⚫⚫ 2p. 4pg 4pg
+Energía 		⚫⚫⚫⚪⚪ 2p.
+
+Defensas           3 puntos , 1 punto= 3p.* gratuitos
+
+Parada 			⚪⚪⚪⚪⚪
+Esquivar 		⚪⚪⚪⚪⚪
+Bloqueo 		⚫⚫⚫⚫⚪ 3pg
+Metamagia 		⚪⚪⚪⚪⚪
+
+Habilidades mágicas   1 punto, 1 punto= 3p.* gratuitos
+
+Taumaturgia               ⚪⚪⚪⚪⚪
+Fe                        ⚪⚪⚪⚪⚪
+Espiritualidad            ⚪⚪⚪⚪⚪
+Naturaleza                ⚪⚪⚪⚪⚪
+Caos                      ⚪⚪⚪⚪⚪
+
+Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
+
+Espadas de una mano    ⚫⚪⚪⚪⚪⚪ +1 Guerrero
+Espadas de dos manos   ⚫⚪⚪⚪⚪⚪ +1 Guerrero
+Mazas de una mano      ⚫⚪⚪⚪⚪⚪ +1 Guerrero
+Mazas de dos manos     ⚫⚪⚪⚪⚪⚪ +1 Guerrero
+Hachas de una mano     ⚫⚫⚫⚫⚪⚪ +2p. +1 Guerrero 3pg.
+Hachas de dos manos    ⚫⚪⚪⚪⚪⚪ +1 Guerrero
+Arcos                  ⚪⚪⚪⚪⚪
+Armas de fuego         ⚪⚪⚪⚪⚪
+Armas arrojadizas      ⚪⚪⚪⚪⚪
+Ballestas              ⚪⚪⚪⚪⚪
+Bastones               ⚪⚪⚪⚪⚪
+Varitas                ⚪⚪⚪⚪⚪
+Dagas                  ⚪⚪⚪⚪⚪
+Armas de puño          ⚪⚪⚪⚪⚪
+Armas de asta          ⚪⚪⚪⚪⚪
+Gujas de guerra        ⚪⚪⚪⚪⚪
+Escudo                 ⚫⚫⚫⚫⚫⚪ +3p. +1 Guerrero +1 Protector 3pg.
+Sin Armas              ⚫⚪⚪⚪⚪⚪ +1 Huargen
+
+HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
+
+Habilidades Físicas 
+
+Atletismo 		⚫⚫⚫⚫⚪⚪ +1 Huargen +2p.
+Robo 			⚪⚪⚪⚪⚪
+Sigilo 			⚪⚪⚪⚪⚪
+Forzar cerraduras 	⚪⚪⚪⚪⚪
+Supervivencia 		⚫⚫⚫⚪⚪ +3p.
+Trepar /escalar 	⚪⚪⚪⚪⚪
+Buscar 			⚪⚪⚪⚪⚪
+
+Habilidades mentales
+
+Alerta 			⚫⚫⚪⚪⚪ +2p.	
+Aprendizaje 		⚫⚪⚪⚪⚪ +1p.
+Interpretación 		⚪⚪⚪⚪⚪
+
+Habilidades sociales 	
+
+Subterfugio    		⚪⚪⚪⚪⚪
+Trato con animales 	⚪⚪⚪⚪⚪
+Intimidación  		⚪⚪⚪⚪⚪
+Carisma 		⚫⚫⚪⚪⚪ +2p.
+
+PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
+
+Artesanías
+
+Alquimia   		⚪⚪⚪⚪⚪
+Sastrería  		⚪⚪⚪⚪⚪
+Desuello  		⚫⚪⚪⚪⚪⚪ +1 Huargen
+Carpintería  		⚪⚪⚪⚪⚪
+Herborista  		⚪⚪⚪⚪⚪
+Encantamiento  		⚪⚪⚪⚪⚪
+Herrería  		⚪⚪⚪⚪⚪
+Inscripción  		⚪⚪⚪⚪⚪
+Ingeniería  		⚪⚪⚪⚪⚪
+Joyería  		⚪⚪⚪⚪⚪
+Leñador  		⚫⚪⚪⚪⚪ +1p.
+Minería  		⚪⚪⚪⚪⚪
+Peletería  		⚪⚪⚪⚪⚪
+Granjero  		⚪⚪⚪⚪⚪
+
+Oficios
+
+Bardo  			⚪⚪⚪⚪⚪
+Marinero  		⚪⚪⚪⚪⚪
+Mercader  		⚪⚪⚪⚪⚪
+Cazarrecompensas  	⚫⚪⚪⚪⚪ +1p.
+Criador de animales  	⚪⚪⚪⚪⚪
+
+Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
+
+Jinete 			⚫⚫⚪⚪⚪ +2p.
+Pesca 			⚫⚫⚪⚪⚪ +2p.
+Arqueología 		⚪⚪⚪⚪⚪
+Médico 			⚪⚪⚪⚪⚪
+Cocina 			⚪⚪⚪⚪⚪
+con. magia		⚪⚪⚪⚪⚪
+
+MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
+
+Magia 
+
+Arcanismo                   ⚪⚪⚪⚪⚪
+Piromancia                  ⚪⚪⚪⚪⚪
+Criomancia                  ⚪⚪⚪⚪⚪
+Nigromancia                 ⚪⚪⚪⚪⚪
+Magia rúnica                ⚪⚪⚪⚪⚪
+Demonología                 ⚪⚪⚪⚪⚪
+Piromancia vil              ⚪⚪⚪⚪⚪
+Magia sangrienta            ⚪⚪⚪⚪⚪
+Magia de la sombra          ⚪⚪⚪⚪⚪
+Magia druidica: Feral       ⚪⚪⚪⚪⚪
+Magia druidica: Equilibrio  ⚪⚪⚪⚪⚪
+Magia druidica: Vida        ⚪⚪⚪⚪⚪
+Dominio de la luz           ⚪⚪⚪⚪⚪
+Magia elemental: Agua       ⚪⚪⚪⚪⚪
+Magia elemental: Fuego      ⚪⚪⚪⚪⚪
+Magia elemental: Tierra     ⚪⚪⚪⚪⚪
+Magia elemental: Aire       ⚪⚪⚪⚪⚪
+Chi                         ⚪⚪⚪⚪⚪ 
+
+Estilos
+
+Maestro de armas           ⚫⚫⚪⚪⚪⚪ +1p +1 Guerrero
+Furibundo                  ⚫⚪⚪⚪⚪⚪ +1 Guerrero
+Protector                  ⚫⚫⚫⚫⚪⚪ +2p. +1 Guerrero 3pg.
+Puntería                   ⚪⚪⚪⚪⚪
+Supervivencia              ⚪⚪⚪⚪⚪
+Maestro de bestias         ⚪⚪⚪⚪⚪
+A.A.M.M. Maestro cervecero ⚪⚪⚪⚪⚪
+A.A.M.M. Caminavientos     ⚪⚪⚪⚪⚪
+Asesinato                  ⚪⚪⚪⚪⚪
+Sutileza                   ⚪⚪⚪⚪⚪
+Forajido                   ⚪⚪⚪⚪⚪
+Protector sagrado          ⚪⚪⚪⚪⚪
+Represión                  ⚪⚪⚪⚪⚪
+Devastación                ⚪⚪⚪⚪⚪
+Venganza                   ⚪⚪⚪⚪⚪
+Caballero sangriento       ⚪⚪⚪⚪⚪
+Caballero de escarcha      ⚪⚪⚪⚪⚪
+Caballero profano          ⚪⚪⚪⚪⚪
+
+* +1 de coste si es la primera vez.
