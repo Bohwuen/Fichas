@@ -11,11 +11,11 @@ por cada nivel aumentado el personaje obtiene
 Atributos          5 puntos, 1 punto= 4p. gratuitos
 
 Destreza 		⚫⚫⚫⚪⚪⚪ +1guerrero +1p
-Percepción 		⚫⚫⚪⚪⚪⚪ +1huarguen
+Percepción 		⚫⚫⚪⚪⚪⚪ +1huarguen +1p
 Voluntad 		⚫⚪⚪⚪⚪
 Vigor 			⚫⚫⚫⚫⚪⚪⚪⚪⚪ +2huarguen +1guerrero
 Inteligencia 		⚫⚪⚪⚪⚪
-Aguante 		⚫⚫⚫⚫⚪ +3p
+Aguante 		⚫⚫⚫⚪⚪ +2p
 Energía 		⚫⚫⚪⚪⚪ +1p
 
 Defensas           3 puntos , 1 punto= 3p.* gratuitos
@@ -40,19 +40,19 @@ Espadas de dos manos   ⚫⚫⚪⚪⚪⚪ +1guerrero +1pg
 Mazas de una mano      ⚫⚪⚪⚪⚪⚪ +1guerrero
 Mazas de dos manos     ⚫⚪⚪⚪⚪⚪ +1guerrero
 Hachas de una mano     ⚫⚪⚪⚪⚪⚪ +1guerrero
-Hachas de dos manos    ⚫⚫⚫⚫⚪⚪ +1guerrero +3p
+Hachas de dos manos    ⚫⚫⚫⚪⚪⚪ +1guerrero +2p
 Arcos                  ⚪⚪⚪⚪⚪
 Armas de fuego         ⚪⚪⚪⚪⚪
 Armas arrojadizas      ⚪⚪⚪⚪⚪
 Ballestas              ⚪⚪⚪⚪⚪
 Bastones               ⚪⚪⚪⚪⚪
 Varitas                ⚪⚪⚪⚪⚪
-Dagas                  ⚫⚪⚪⚪⚪ +1pg
+Dagas                  ⚫⚫⚪⚪⚪ 1p +2pg
 Armas de puño          ⚪⚪⚪⚪⚪
 Armas de asta          ⚪⚪⚪⚪⚪
 Gujas de guerra        ⚪⚪⚪⚪⚪
 Escudo                 ⚫⚪⚪⚪⚪⚪ +1guerrero
-Sin Armas              ⚫⚫⚫⚪⚪⚪ +1guerrero +2p
+Sin Armas              ⚫⚫⚫⚪⚪⚪ +1huargen +2p
 
 HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
 
@@ -68,7 +68,7 @@ Buscar 			⚪⚪⚪⚪⚪
 
 Habilidades mentales
 
-Alerta 			⚫⚫⚪⚪⚪ +2pg	
+Alerta 			⚫⚫⚪⚪⚪ +4pg	
 Aprendizaje 		⚪⚪⚪⚪⚪
 Interpretación 		⚪⚪⚪⚪⚪
 
@@ -76,8 +76,8 @@ Habilidades sociales
 
 Subterfugio    		⚪⚪⚪⚪⚪
 Trato con animales 	⚪⚪⚪⚪⚪
-Intimidación  		⚫⚫⚫⚫⚪ +4p
-Carisma 		⚫⚪⚪⚪⚪ +1p
+Intimidación  		⚫⚫⚫⚪⚪ +3p
+Carisma 		⚫⚫⚪⚪⚪ +2p
 
 PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
 
@@ -141,7 +141,7 @@ Chi                         ⚪⚪⚪⚪⚪
 Estilos
 
 Maestro de armas           ⚫⚪⚪⚪⚪⚪ +1guerrero
-Furibundo                  ⚫⚫⚫⚫⚪⚪ +1guerrero +3p
+Furibundo                  ⚫⚫⚫⚪⚪⚪ +1guerrero +2p
 Protector                  ⚫⚪⚪⚪⚪⚪ +1guerrero
 Puntería                   ⚪⚪⚪⚪⚪
 Supervivencia              ⚪⚪⚪⚪⚪
