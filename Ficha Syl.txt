@@ -1,0 +1,163 @@
+Civil:         ⚫⚫⚫⚫⚫
+Novato:        ⚫⚪⚪⚪⚪
+Combatiente:   ⚪⚪⚪⚪⚪
+Experimentado: ⚪⚪⚪⚪⚪
+Veterano:      ⚪⚪⚪⚪⚪
+
+20 puntos gratuitos por creación de personaje
+por cada nivel aumentado el personaje obtiene 
+7p. gratuitos.
+1pg pendiente por gastar.
+
+Atributos          5 puntos, 1 punto= 4p. gratuitos
+
+Destreza 		⚫⚫⚫⚫⚪⚪ +1 Pícaro, -1p, -4pg,
+Percepción 		⚫⚫⚪⚪⚪⚪ +1 huargen,
+Voluntad 		⚫⚪⚪⚪⚪
+Vigor 			⚫⚫⚫⚪⚪⚪⚪ +2 huargen,
+Inteligencia 		⚫⚫⚪⚪⚪ -1p,
+Salud 			⚫⚫⚫⚪⚪ -2p,
+Energía 		⚫⚫⚫⚪⚪ -1p, -4pg,
+
+Defensas           3 puntos , 1 punto= 3p.* gratuitos
+
+Parada 			⚫⚫⚪⚪⚪ -1p,	-3pg,
+Esquivar 		⚫⚫⚫⚪⚪ -2p, -3pg, 	
+Bloqueo 		⚪⚪⚪⚪⚪
+Metamagia 		⚪⚪⚪⚪⚪
+
+Habilidades mágicas   1 punto, 1 punto= 3p.* gratuitos
+
+Taumaturgia               ⚪⚪⚪⚪⚪
+Fe                        ⚪⚪⚪⚪⚪
+Espiritualidad            ⚪⚪⚪⚪⚪
+Naturaleza                ⚪⚪⚪⚪⚪
+Caos                      ⚫⚪⚪⚪⚪ -1p,
+
+Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
+
+Espadas de una mano    ⚫⚪⚪⚪⚪⚪ +1 Pícaro,
+Espadas de dos manos   ⚪⚪⚪⚪⚪
+Mazas de una mano      ⚫⚪⚪⚪⚪⚪ +1 Pícaro,
+Mazas de dos manos     ⚪⚪⚪⚪⚪
+Hachas de una mano     ⚫⚪⚪⚪⚪⚪ +1 Pícaro,
+Hachas de dos manos    ⚪⚪⚪⚪⚪
+Arcos                  ⚪⚪⚪⚪⚪
+Armas de fuego         ⚪⚪⚪⚪⚪
+Armas arrojadizas      ⚪⚪⚪⚪⚪
+Ballestas              ⚪⚪⚪⚪⚪
+Bastones               ⚪⚪⚪⚪⚪
+Varitas                ⚪⚪⚪⚪⚪
+Dagas                  ⚫⚫⚫⚫⚪⚪ +1 Pícaro, -3p,
+Armas de puño          ⚪⚪⚪⚪⚪
+Armas de asta          ⚪⚪⚪⚪⚪
+Gujas de guerra        ⚪⚪⚪⚪⚪
+Escudo                 ⚪⚪⚪⚪⚪
+Sin Armas              ⚫⚫⚫⚫⚪⚪ +1 huargen, -2p, -3pg,
+
+HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
+
+Habilidades Físicas 
+
+Atletismo 		⚫⚫⚫⚪⚪⚪⚪ +2 huargen, -1p,
+Robo 			⚫⚫⚪⚪⚪⚪ +1 Pícaro, -1p,
+Sigilo 			⚫⚫⚫⚪⚪⚪⚪ +1 Pícaro, -2p,
+Forzar cerraduras 	⚫⚫⚪⚪⚪⚪ +1 Pícaro, -1p,
+Supervivencia 		⚫⚫⚪⚪⚪⚪ +1 Pícaro, -1p,
+Trepar /escalar 	⚪⚪⚪⚪⚪
+Buscar 			⚫⚫⚫⚪⚪⚪ +1 Pícaro, -2pg,-2pg,
+
+Habilidades mentales
+
+Alerta 			⚫⚪⚪⚪⚪ -1p,	
+Aprendizaje 		⚫⚫⚪⚪⚪ -1p,-2pg,
+Interpretación 		⚪⚪⚪⚪⚪
+
+Habilidades sociales 	
+
+Subterfugio    		⚫⚫⚫⚪⚪⚪ +1 Pícaro,-2pg,-2pg,
+Trato con animales 	⚫⚫⚫⚫⚪ -1p,-2pg -4pg,
+Intimidación  		⚫⚪⚪⚪⚪ -1p,
+Carisma 		⚪⚪⚪⚪⚪
+
+PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
+
+Artesanías
+
+Alquimia   		⚪⚪⚪⚪⚪
+Sastrería  		⚪⚪⚪⚪⚪
+Desuello  		⚫⚫⚫⚫⚪⚪ +1 huargen, -1p,-2pg,-2pg,
+Carpintería  		⚪⚪⚪⚪⚪
+Herborista  		⚪⚪⚪⚪⚪
+Encantamiento  		⚪⚪⚪⚪⚪
+Herrería  		⚪⚪⚪⚪⚪
+Inscripción  		⚪⚪⚪⚪⚪
+Ingeniería  		⚪⚪⚪⚪⚪
+Joyería  		⚪⚪⚪⚪⚪
+Leñador  		⚪⚪⚪⚪⚪
+Minería  		⚪⚪⚪⚪⚪
+Peletería  		⚫⚫⚪⚪⚪ -1p,-2pg,
+Granjero  		⚪⚪⚪⚪⚪
+
+Oficios
+
+Bardo  			⚪⚪⚪⚪⚪
+Marinero  		⚪⚪⚪⚪⚪
+Mercader  		⚪⚪⚪⚪⚪
+Cazarrecompensas  	⚪⚪⚪⚪⚪
+Criador de animales  	⚪⚪⚪⚪⚪
+
+Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
+
+Jinete 			⚫⚪⚪⚪⚪ -3pg*,
+Pesca 			⚫⚫⚪⚪⚪ -1p,-2pg
+Arqueología 		⚪⚪⚪⚪⚪
+Médico 			⚫⚪⚪⚪⚪ -1p,
+Cocina 			⚫⚫⚫⚪⚪ -2p,-2pg,
+con. magia		⚪⚪⚪⚪⚪
+
+MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
+
+Magia 
+
+Arcanismo                   ⚪⚪⚪⚪⚪
+Piromancia                  ⚪⚪⚪⚪⚪
+Criomancia                  ⚪⚪⚪⚪⚪
+Nigromancia                 ⚪⚪⚪⚪⚪
+Magia rúnica                ⚪⚪⚪⚪⚪
+Demonología                 ⚪⚪⚪⚪⚪
+Piromancia vil              ⚪⚪⚪⚪⚪
+Magia sangrienta            ⚪⚪⚪⚪⚪
+Magia de la sombra          ⚪⚪⚪⚪⚪
+Magia druidica: Feral       ⚪⚪⚪⚪⚪
+Magia druidica: Equilibrio  ⚪⚪⚪⚪⚪
+Magia druidica: Vida        ⚪⚪⚪⚪⚪
+Dominio de la luz           ⚪⚪⚪⚪⚪
+Magia elemental: Agua       ⚪⚪⚪⚪⚪
+Magia elemental: Fuego      ⚪⚪⚪⚪⚪
+Magia elemental: Tierra     ⚪⚪⚪⚪⚪
+Magia elemental: Aire       ⚪⚪⚪⚪⚪
+Chi                         ⚪⚪⚪⚪⚪ 
+
+Estilos
+
+Maestro de armas           ⚪⚪⚪⚪⚪
+Furibundo                  ⚪⚪⚪⚪⚪
+Protector                  ⚪⚪⚪⚪⚪
+Puntería                   ⚪⚪⚪⚪⚪
+Supervivencia              ⚪⚪⚪⚪⚪
+Maestro de bestias         ⚪⚪⚪⚪⚪
+A.A.M.M. Maestro cervecero ⚪⚪⚪⚪⚪
+A.A.M.M. Caminavientos     ⚪⚪⚪⚪⚪
+Asesinato                  ⚫⚪⚪⚪⚪⚪ +1 Pícaro,
+Sutileza                   ⚫⚫⚫⚪⚪⚪ +1 Pícaro,4pg,
+Forajido                   ⚫⚪⚪⚪⚪⚪ +1 Pícaro,
+Protector sagrado          ⚪⚪⚪⚪⚪
+Represión                  ⚪⚪⚪⚪⚪
+Devastación                ⚪⚪⚪⚪⚪
+Venganza                   ⚪⚪⚪⚪⚪
+Caballero sangriento       ⚪⚪⚪⚪⚪
+Caballero de escarcha      ⚪⚪⚪⚪⚪
+Caballero profano          ⚪⚪⚪⚪⚪
+
+* +1 de coste si es la primera vez.
