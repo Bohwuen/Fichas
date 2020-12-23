@@ -1,0 +1,162 @@
+Civil:         ⚫⚪⚪⚪⚪
+Novato:        ⚪⚪⚪⚪⚪
+Combatiente:   ⚪⚪⚪⚪⚪
+Experimentado: ⚪⚪⚪⚪⚪
+Veterano:      ⚪⚪⚪⚪⚪
+
+20 puntos gratuitos por creación de personaje
+por cada nivel aumentado el personaje obtiene 
+7p. gratuitos.
+
+Atributos          5 puntos, 1 punto= 4p. gratuitos
+
+Destreza 		⚫⚪⚪⚪⚪
+Percepción 		⚫⚫⚪⚪⚪ -1p
+Voluntad 		⚫⚫⚫⚪⚪ -2p
+Vigor 			⚫⚪⚪⚪⚪
+Inteligencia 		⚫⚫⚫⚫⚪⚪⚪ +1 Gnomo, +1 Mago, -1p,
+Salud 			⚫⚫⚪⚪⚪ -4pg,
+Energía 		⚫⚫⚫⚪⚪ -1p,-4pg,
+
+Defensas           3 puntos , 1 punto= 3p.* gratuitos
+
+Parada 			⚪⚪⚪⚪⚪
+Esquivar 		⚫⚫⚪⚪⚪⚪ +1 Gnomo, -1p,
+Bloqueo 		⚪⚪⚪⚪⚪
+Metamagia 		⚫⚫⚫⚫⚪ -2p,-3pg,-3pg
+
+Habilidades mágicas   1 punto, 1 punto= 3p.* gratuitos
+
+Taumaturgia               ⚫⚫⚫⚪⚪⚪ +1 Mago, -1p,-3pg
+Fe                        ⚪⚪⚪⚪⚪
+Espiritualidad            ⚪⚪⚪⚪⚪
+Naturaleza                ⚪⚪⚪⚪⚪
+Caos                      ⚪⚪⚪⚪⚪
+
+Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
+
+Espadas de una mano    ⚪⚪⚪⚪⚪
+Espadas de dos manos   ⚪⚪⚪⚪⚪
+Mazas de una mano      ⚪⚪⚪⚪⚪
+Mazas de dos manos     ⚪⚪⚪⚪⚪
+Hachas de una mano     ⚪⚪⚪⚪⚪
+Hachas de dos manos    ⚪⚪⚪⚪⚪
+Arcos                  ⚪⚪⚪⚪⚪
+Armas de fuego         ⚪⚪⚪⚪⚪
+Armas arrojadizas      ⚪⚪⚪⚪⚪
+Ballestas              ⚪⚪⚪⚪⚪
+Bastones               ⚫⚫⚫⚫⚪⚪ +1 Mago, -3p,
+Varitas                ⚫⚫⚪⚪⚪ -2p,
+Dagas                  ⚪⚪⚪⚪⚪
+Armas de puño          ⚪⚪⚪⚪⚪
+Armas de asta          ⚪⚪⚪⚪⚪
+Gujas de guerra        ⚪⚪⚪⚪⚪
+Escudo                 ⚪⚪⚪⚪⚪
+Sin Armas              ⚪⚪⚪⚪⚪ 
+
+HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
+
+Habilidades Físicas 
+
+Atletismo 		⚪⚪⚪⚪⚪
+Robo 			⚪⚪⚪⚪⚪
+Sigilo 			⚫⚫⚪⚪⚪⚪ +1 Gnomo,-1p,
+Forzar cerraduras 	⚪⚪⚪⚪⚪
+Supervivencia 		⚪⚪⚪⚪⚪
+Trepar /escalar 	⚪⚪⚪⚪⚪
+Buscar 			⚫⚪⚪⚪⚪ -1p,
+
+Habilidades mentales
+
+Alerta 			⚪⚪⚪⚪⚪	
+Aprendizaje 		⚫⚫⚫⚫⚪⚪ +1 Gnomo,-3p,
+Interpretación 		⚫⚫⚪⚪⚪ -2p,
+
+Habilidades sociales 	
+
+Subterfugio    		⚪⚪⚪⚪⚪
+Trato con animales 	⚪⚪⚪⚪⚪
+Intimidación  		⚪⚪⚪⚪⚪
+Carisma 		⚫⚫⚫⚫⚪⚪ +1 Mago,-3p,
+
+PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
+
+Artesanías
+
+Alquimia   		⚪⚪⚪⚪⚪
+Sastrería  		⚪⚪⚪⚪⚪
+Desuello  		⚪⚪⚪⚪⚪
+Carpintería  		⚪⚪⚪⚪⚪
+Herborista  		⚪⚪⚪⚪⚪
+Encantamiento  		⚫⚫⚪⚪⚪ -2p,
+Herrería  		⚪⚪⚪⚪⚪
+Inscripción  		⚪⚪⚪⚪⚪
+Ingeniería  		⚫⚪⚪⚪⚪⚪ +1 Gnomo,
+Joyería  		⚪⚪⚪⚪⚪
+Leñador  		⚪⚪⚪⚪⚪
+Minería  		⚪⚪⚪⚪⚪
+Peletería  		⚪⚪⚪⚪⚪
+Granjero  		⚪⚪⚪⚪⚪
+
+Oficios
+
+Bardo  			⚪⚪⚪⚪⚪
+Marinero  		⚪⚪⚪⚪⚪
+Mercader  		⚪⚪⚪⚪⚪
+Cazarrecompensas  	⚪⚪⚪⚪⚪
+Criador de animales  	⚪⚪⚪⚪⚪
+
+Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
+
+Jinete 			⚪⚪⚪⚪⚪
+Pesca 			⚪⚪⚪⚪⚪
+Arqueología 		⚪⚪⚪⚪⚪
+Médico 			⚫⚪⚪⚪⚪ -1p,
+Cocina 			⚪⚪⚪⚪⚪
+con. magia		⚫⚫⚫⚫⚪⚪ +1 Mago, -3p,
+
+MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
+
+Magia 
+
+Arcanismo                   ⚫⚫⚪⚪⚪⚪ +1 Mago, -3pg,
+Piromancia                  ⚫⚫⚫⚫⚪⚪ +1 Mago, -3p,
+Criomancia                  ⚫⚪⚪⚪⚪⚪ +1 Mago,
+Nigromancia                 ⚪⚪⚪⚪⚪
+Magia rúnica                ⚪⚪⚪⚪⚪
+Demonología                 ⚪⚪⚪⚪⚪
+Piromancia vil              ⚪⚪⚪⚪⚪
+Magia sangrienta            ⚪⚪⚪⚪⚪
+Magia de la sombra          ⚪⚪⚪⚪⚪
+Magia druidica: Feral       ⚪⚪⚪⚪⚪
+Magia druidica: Equilibrio  ⚪⚪⚪⚪⚪
+Magia druidica: Vida        ⚪⚪⚪⚪⚪
+Dominio de la luz           ⚪⚪⚪⚪⚪
+Magia elemental: Agua       ⚪⚪⚪⚪⚪
+Magia elemental: Fuego      ⚪⚪⚪⚪⚪
+Magia elemental: Tierra     ⚪⚪⚪⚪⚪
+Magia elemental: Aire       ⚪⚪⚪⚪⚪
+Chi                         ⚪⚪⚪⚪⚪ 
+
+Estilos
+
+Maestro de armas           ⚪⚪⚪⚪⚪
+Furibundo                  ⚪⚪⚪⚪⚪
+Protector                  ⚪⚪⚪⚪⚪
+Puntería                   ⚪⚪⚪⚪⚪
+Supervivencia              ⚪⚪⚪⚪⚪
+Maestro de bestias         ⚪⚪⚪⚪⚪
+A.A.M.M. Maestro cervecero ⚪⚪⚪⚪⚪
+A.A.M.M. Caminavientos     ⚪⚪⚪⚪⚪
+Asesinato                  ⚪⚪⚪⚪⚪
+Sutileza                   ⚪⚪⚪⚪⚪
+Forajido                   ⚪⚪⚪⚪⚪
+Protector sagrado          ⚪⚪⚪⚪⚪
+Represión                  ⚪⚪⚪⚪⚪
+Devastación                ⚪⚪⚪⚪⚪
+Venganza                   ⚪⚪⚪⚪⚪
+Caballero sangriento       ⚪⚪⚪⚪⚪
+Caballero de escarcha      ⚪⚪⚪⚪⚪
+Caballero profano          ⚪⚪⚪⚪⚪
+
+* +1 de coste si es la primera vez.
