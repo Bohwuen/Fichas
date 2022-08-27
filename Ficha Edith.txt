@@ -1,0 +1,162 @@
+Civil:         ⚫⚪⚪⚪⚪
+Novato:        ⚪⚪⚪⚪⚪
+Combatiente:   ⚪⚪⚪⚪⚪
+Experimentado: ⚪⚪⚪⚪⚪
+Veterano:      ⚪⚪⚪⚪⚪
+
+20 puntos gratuitos por creación de personaje
+por cada nivel aumentado el personaje obtiene 
+7p. gratuitos.
+
+Atributos          5 puntos, 1 punto= 4p. gratuitos
+
+Destreza 		⚫⚫⚪⚪⚪ 1p,4pg
+Percepción 		⚫⚫⚪⚪ 4pg,
+Voluntad 		⚫⚫⚫⚪⚪ 1p,4pg
+Vigor 			⚫⚪⚪⚪⚪
+Inteligencia 		⚫⚫⚪⚪⚪⚪ +1 sacerdote,
+Aguante			⚫⚫⚪⚪⚪ 1p,
+Energía 		⚫⚫⚫⚪⚪ 2p,
+
+Defensas           3 puntos , 1 punto= 3p.* gratuitos
+
+Parada 			⚪⚪⚪⚪⚪
+Esquivar 		⚫⚫⚪⚪⚪ 1p,3pg
+Bloqueo 		⚪⚪⚪⚪⚪
+Metamagia 		⚫⚫⚪⚪⚪ 2p,
+
+Habilidades mágicas   1 punto, 1 punto= 3p.* gratuitos
+
+Taumaturgia               ⚪⚪⚪⚪⚪
+Fe                        ⚫⚫⚫⚪⚪⚪ +1 sacerdote, 1p,3pg
+Espiritualidad            ⚪⚪⚪⚪⚪
+Naturaleza                ⚪⚪⚪⚪⚪
+Caos                      ⚪⚪⚪⚪⚪
+
+Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
+
+Espadas de una mano    ⚫⚪⚪⚪⚪⚪ +1 humana, 
+Espadas de dos manos   ⚫⚪⚪⚪⚪⚪ +1 humana, 
+Mazas de una mano      ⚫⚫⚪⚪⚪⚪⚪ +1 humana, +1 Sacerdote
+Mazas de dos manos     ⚫⚪⚪⚪⚪⚪ +1 humana, 
+Hachas de una mano     ⚪⚪⚪⚪⚪
+Hachas de dos manos    ⚪⚪⚪⚪⚪
+Arcos                  ⚪⚪⚪⚪⚪
+Armas de fuego         ⚪⚪⚪⚪⚪
+Armas arrojadizas      ⚪⚪⚪⚪⚪
+Ballestas              ⚪⚪⚪⚪⚪
+Bastones               ⚫⚫⚫⚫⚪⚪ +1 sacerdote,3p,
+Varitas                ⚪⚪⚪⚪⚪
+Dagas                  ⚫⚫⚪⚪⚪ 2p,
+Armas de puño          ⚪⚪⚪⚪⚪
+Armas de asta          ⚪⚪⚪⚪⚪
+Gujas de guerra        ⚪⚪⚪⚪⚪
+Escudo                 ⚪⚪⚪⚪⚪
+Sin Armas              ⚪⚪⚪⚪⚪ 
+
+HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
+
+Habilidades Físicas 
+
+Atletismo 		⚪⚪⚪⚪⚪
+Robo 			⚪⚪⚪⚪⚪
+Sigilo 			⚫⚫⚪⚪⚪ 2p,
+Forzar cerraduras 	⚪⚪⚪⚪⚪
+Subsistencia 		⚪⚪⚪⚪⚪
+Trepar /escalar 	⚪⚪⚪⚪⚪
+Buscar 			⚫⚪⚪⚪⚪ 1p,
+
+Habilidades mentales
+
+Alerta 			⚫⚪⚪⚪⚪ 1p,	
+Aprendizaje 		⚫⚫⚪⚪⚪⚪ +1 humana, 1p,
+Interpretación 		⚪⚪⚪⚪⚪
+
+Habilidades sociales 	
+
+Subterfugio    		⚫⚫⚪⚪⚪ 2p,
+Trato con animales 	⚪⚪⚪⚪⚪
+Intimidación  		⚫⚫⚪⚪⚪ 2p, 
+Carisma 		⚫⚫⚫⚪⚪⚪⚪ +1 humana,+1 sacerdote,1p
+
+PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
+
+Artesanías
+
+Alquimia   		⚪⚪⚪⚪⚪
+Sastrería  		⚪⚪⚪⚪⚪
+Desuello  		⚪⚪⚪⚪⚪
+Carpintería  		⚪⚪⚪⚪⚪
+Herborista  		⚪⚪⚪⚪⚪
+Encantamiento  		⚫⚫⚪⚪⚪⚪ +1 humana, 1p,
+Herrería  		⚪⚪⚪⚪⚪
+Inscripción  		⚪⚪⚪⚪⚪
+Ingeniería  		⚪⚪⚪⚪⚪
+Joyería  		⚪⚪⚪⚪⚪
+Leñador  		⚪⚪⚪⚪⚪
+Minería  		⚪⚪⚪⚪⚪
+Peletería  		⚪⚪⚪⚪⚪
+Granjero  		⚪⚪⚪⚪⚪
+
+Oficios
+
+Bardo  			⚪⚪⚪⚪⚪
+Marinero  		⚪⚪⚪⚪⚪
+Mercader  		⚫⚫⚪⚪⚪⚪ +1 humana,1p, 
+Cazarrecompensas  	⚪⚪⚪⚪⚪
+Criador de animales  	⚪⚪⚪⚪⚪
+
+Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
+
+Jinete 			⚫⚪⚪⚪⚪ 2pg,
+Pesca 			⚪⚪⚪⚪⚪
+Arqueología 		⚪⚪⚪⚪⚪
+Médico 			⚫⚪⚪⚪⚪ +1
+Cocina 			⚫⚪⚪⚪⚪ +1
+con. magia		⚫⚫⚪⚪⚪ +2p
+
+MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
+
+Magia 
+
+Arcanismo                   ⚪⚪⚪⚪⚪
+Piromancia                  ⚪⚪⚪⚪⚪
+Criomancia                  ⚪⚪⚪⚪⚪
+Nigromancia                 ⚫⚫⚪⚪⚪ 2p.
+Magia rúnica                ⚪⚪⚪⚪⚪
+Demonología                 ⚪⚪⚪⚪⚪
+Piromancia vil              ⚪⚪⚪⚪⚪
+Magia sangrienta            ⚪⚪⚪⚪⚪
+Magia de la sombra          ⚫⚫⚪⚪⚪⚪ +1 sacerdote, 1p
+Magia druidica: Feral       ⚪⚪⚪⚪⚪
+Magia druidica: Equilibrio  ⚪⚪⚪⚪⚪
+Magia druidica: Vida        ⚪⚪⚪⚪⚪
+Dominio de la luz           ⚫⚪⚪⚪⚪⚪ +1 sacerdote,
+Magia elemental: Agua       ⚪⚪⚪⚪⚪
+Magia elemental: Fuego      ⚪⚪⚪⚪⚪
+Magia elemental: Tierra     ⚪⚪⚪⚪⚪
+Magia elemental: Aire       ⚪⚪⚪⚪⚪
+Chi                         ⚪⚪⚪⚪⚪ 
+
+Estilos
+
+Maestro de armas           ⚪⚪⚪⚪⚪
+Furibundo                  ⚪⚪⚪⚪⚪
+Protector                  ⚪⚪⚪⚪⚪
+Puntería                   ⚪⚪⚪⚪⚪
+Supervivencia              ⚪⚪⚪⚪⚪
+Maestro de bestias         ⚪⚪⚪⚪⚪
+A.A.M.M. Maestro cervecero ⚪⚪⚪⚪⚪
+A.A.M.M. Caminavientos     ⚪⚪⚪⚪⚪
+Asesinato                  ⚪⚪⚪⚪⚪
+Sutileza                   ⚪⚪⚪⚪⚪
+Forajido                   ⚪⚪⚪⚪⚪
+Protector sagrado          ⚪⚪⚪⚪⚪
+Represión                  ⚪⚪⚪⚪⚪
+Devastación                ⚪⚪⚪⚪⚪
+Venganza                   ⚪⚪⚪⚪⚪
+Caballero sangriento       ⚪⚪⚪⚪⚪
+Caballero de escarcha      ⚪⚪⚪⚪⚪
+Caballero profano          ⚪⚪⚪⚪⚪
+
+* +1 de coste si es la primera vez.

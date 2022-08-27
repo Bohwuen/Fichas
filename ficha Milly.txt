@@ -1,0 +1,164 @@
+Vulpera Maga
+
+Civil:         ⚫⚪⚪⚪⚪
+Novato:        ⚪⚪⚪⚪⚪
+Combatiente:   ⚪⚪⚪⚪⚪
+Experimentado: ⚪⚪⚪⚪⚪
+Veterano:      ⚪⚪⚪⚪⚪
+
+20 puntos gratuitos por creación de personaje
+por cada nivel aumentado el personaje obtiene 
+7p. gratuitos.
+
+Atributos          5 puntos, 1 punto= 4p. gratuitos
+
+Destreza 		⚫⚪⚪⚪⚪
+Percepción 		⚫⚫⚫⚪⚪ 1p, 4pg
+Voluntad 		⚫⚪⚪⚪⚪
+Vigor 			⚫⚪⚪⚪⚪
+Inteligencia 		⚫⚫⚫⚫⚫⚪ +1 mago, 2p, 4pg,
+Aguante			⚫⚪⚪⚪⚪
+Energía 		⚫⚫⚫⚪⚪ 2p,
+
+Defensas           3 puntos , 1 punto= 3p.* gratuitos
+
+Parada 			⚪⚪⚪⚪⚪
+Esquivar 		⚫⚪⚪⚪⚪ 1p,
+Bloqueo 		⚪⚪⚪⚪⚪
+Metamagia 		⚫⚫⚫⚪⚪ 2p, 3pg
+
+Habilidades mágicas   1 punto, 1 punto= 3p.* gratuitos
+
+Taumaturgia               ⚫⚫⚪⚪⚪⚪ +1 mago,1p,
+Fe                        ⚪⚪⚪⚪⚪
+Espiritualidad            ⚪⚪⚪⚪⚪
+Naturaleza                ⚪⚪⚪⚪⚪
+Caos                      ⚪⚪⚪⚪⚪
+
+Habilidades de armas 5 puntos, 1 punto= 3p.* gratuitos
+
+Espadas de una mano    ⚪⚪⚪⚪⚪
+Espadas de dos manos   ⚪⚪⚪⚪⚪
+Mazas de una mano      ⚪⚪⚪⚪⚪
+Mazas de dos manos     ⚪⚪⚪⚪⚪
+Hachas de una mano     ⚪⚪⚪⚪⚪
+Hachas de dos manos    ⚪⚪⚪⚪⚪
+Arcos                  ⚪⚪⚪⚪⚪
+Armas de fuego         ⚪⚪⚪⚪⚪
+Armas arrojadizas      ⚪⚪⚪⚪⚪
+Ballestas              ⚪⚪⚪⚪⚪
+Bastones               ⚫⚫⚫⚫⚪⚪ +1 mago,3p,
+Varitas                ⚫⚫⚪⚪⚪ 2p,
+Dagas                  ⚪⚪⚪⚪⚪
+Armas de puño          ⚪⚪⚪⚪⚪
+Armas de asta          ⚪⚪⚪⚪⚪
+Gujas de guerra        ⚪⚪⚪⚪⚪
+Escudo                 ⚪⚪⚪⚪⚪
+Sin Armas              ⚪⚪⚪⚪⚪ 
+
+HABILIDADES:      10 puntos, 1 punto= 2p.* gratuitos
+
+Habilidades Físicas 
+
+Atletismo 		⚫⚫⚪⚪⚪ 2p,
+Robo 			⚪⚪⚪⚪⚪
+Sigilo 			⚪⚪⚪⚪⚪
+Forzar cerraduras 	⚪⚪⚪⚪⚪
+Subsistencia 		⚫⚪⚪⚪⚪ 1p,
+Trepar /escalar 	⚪⚪⚪⚪⚪
+Buscar 			⚫⚪⚪⚪⚪ 1p,
+
+Habilidades mentales
+
+Alerta 			⚫⚫⚫⚪⚪ 3p,	
+Aprendizaje 		⚫⚫⚫⚪⚪ 3p,
+Interpretación 		⚪⚪⚪⚪⚪
+
+Habilidades sociales 	
+
+Subterfugio    		⚪⚪⚪⚪⚪
+Trato con animales 	⚪⚪⚪⚪⚪
+Intimidación  		⚪⚪⚪⚪⚪
+Carisma 		⚫⚫⚪⚪⚪⚪ +1 mago, 2pg,
+
+PROFESIONES        2 puntos, 1 punto= 2p.* gratuitos
+
+Artesanías
+
+Alquimia   		⚪⚪⚪⚪⚪
+Sastrería  		⚪⚪⚪⚪⚪
+Desuello  		⚪⚪⚪⚪⚪
+Carpintería  		⚪⚪⚪⚪⚪
+Herborista  		⚪⚪⚪⚪⚪
+Encantamiento  		⚫⚫⚪⚪⚪ 1p, 2pg
+Herrería  		⚪⚪⚪⚪⚪
+Inscripción  		⚫⚪⚪⚪⚪ 1p,
+Ingeniería  		⚪⚪⚪⚪⚪
+Joyería  		⚪⚪⚪⚪⚪
+Leñador  		⚪⚪⚪⚪⚪
+Minería  		⚪⚪⚪⚪⚪
+Peletería  		⚪⚪⚪⚪⚪
+Granjero  		⚪⚪⚪⚪⚪
+
+Oficios
+
+Bardo  			⚪⚪⚪⚪⚪
+Marinero  		⚪⚪⚪⚪⚪
+Mercader  		⚪⚪⚪⚪⚪
+Cazarrecompensas  	⚪⚪⚪⚪⚪
+Criador de animales  	⚪⚪⚪⚪⚪
+
+Conocimientos      4 puntos, 1 punto= 2p.* gratuitos
+
+Jinete 			⚪⚪⚪⚪⚪
+Pesca 			⚪⚪⚪⚪⚪
+Arqueología 		⚫⚪⚪⚪⚪ 1p,
+Médico 			⚫⚪⚪⚪⚪ 
+Cocina 			⚪⚪⚪⚪⚪
+con. magia		⚫⚫⚫⚫⚪⚪ +1 mago,3p, 2pg
+
+MAGIA Y ESTILOS        3 puntos, 1 punto= 3p.* gratuitos
+
+Magia 
+
+Arcanismo                   ⚫⚫⚫⚫⚪⚪ +1 mago, 3p,
+Piromancia                  ⚫⚪⚪⚪⚪⚪ +1 mago,
+Criomancia                  ⚫⚫⚪⚪⚪⚪ +1 mago, 3pg
+Nigromancia                 ⚪⚪⚪⚪⚪
+Magia rúnica                ⚪⚪⚪⚪⚪
+Demonología                 ⚪⚪⚪⚪⚪
+Piromancia vil              ⚪⚪⚪⚪⚪
+Magia sangrienta            ⚪⚪⚪⚪⚪
+Magia de la sombra          ⚪⚪⚪⚪⚪
+Magia druidica: Feral       ⚪⚪⚪⚪⚪
+Magia druidica: Equilibrio  ⚪⚪⚪⚪⚪
+Magia druidica: Vida        ⚪⚪⚪⚪⚪
+Dominio de la luz           ⚪⚪⚪⚪⚪
+Magia elemental: Agua       ⚪⚪⚪⚪⚪
+Magia elemental: Fuego      ⚪⚪⚪⚪⚪
+Magia elemental: Tierra     ⚪⚪⚪⚪⚪
+Magia elemental: Aire       ⚪⚪⚪⚪⚪
+Chi                         ⚪⚪⚪⚪⚪ 
+
+Estilos
+
+Maestro de armas           ⚪⚪⚪⚪⚪
+Furibundo                  ⚪⚪⚪⚪⚪
+Protector                  ⚪⚪⚪⚪⚪
+Puntería                   ⚪⚪⚪⚪⚪
+Supervivencia              ⚪⚪⚪⚪⚪
+Maestro de bestias         ⚪⚪⚪⚪⚪
+A.A.M.M. Maestro cervecero ⚪⚪⚪⚪⚪
+A.A.M.M. Caminavientos     ⚪⚪⚪⚪⚪
+Asesinato                  ⚪⚪⚪⚪⚪
+Sutileza                   ⚪⚪⚪⚪⚪
+Forajido                   ⚪⚪⚪⚪⚪
+Protector sagrado          ⚪⚪⚪⚪⚪
+Represión                  ⚪⚪⚪⚪⚪
+Devastación                ⚪⚪⚪⚪⚪
+Venganza                   ⚪⚪⚪⚪⚪
+Caballero sangriento       ⚪⚪⚪⚪⚪
+Caballero de escarcha      ⚪⚪⚪⚪⚪
+Caballero profano          ⚪⚪⚪⚪⚪
+
+* +1 de coste si es la primera vez.
